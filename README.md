@@ -38,7 +38,7 @@ const Profile = (props) => {
                     <ActionButton
                         onClick={() => setModal(true)}
                         Icon={AiOutlinePlusCircle}
-                        label="Add New User"
+                        label="Add New Userrrr"
                     />
                 )}
             />
